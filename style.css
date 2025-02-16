@@ -104,3 +104,39 @@ span{
     font-size: 0.88rem;
     font-weight: 700;
 }
+/** panel **/
+
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.panel-all{
+    margin-left: 3px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+.panel-ops p{
+    display: inline;
+    margin-left: 15px;
+}
+.panel-ops{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.para{
+    height: 40px;
+}
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-right: 10px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
